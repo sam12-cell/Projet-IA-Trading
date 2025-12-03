@@ -1,1 +1,6 @@
-
+pandas
+numpy
+yfinance
+pandas_ta
+plotly
+openai
