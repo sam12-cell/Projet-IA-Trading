@@ -11,6 +11,6 @@ Nous avons créé un robot qui analyse le marché de l'Or (Gold) :
 2.  Il utilise **l'Intelligence Artificielle** pour décider s'il faut acheter ou vendre.
 3.  Il vérifie la performance (**Win Rate**) sur le passé pour voir si la stratégie est rentable.
 
-## 🚀 Comment le lancer
+## Comment le lancer
 1.  Installer les outils : `pip install -r requirements.txt`
 2.  Lancer le robot : `python main.py`# Projet-IA-Trading
