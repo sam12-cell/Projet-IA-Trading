@@ -7,12 +7,12 @@ try:
     from backtest import FibonacciBacktester, print_backtest_report
     print("Modules connectés avec succès.")
 except ImportError as e:
-    print(f"❌ Erreur : {e}")
+    print(f" Erreur : {e}")
     exit()
 
 def lancer_le_robot():
     print("\n" + "="*60)
-    print(" 🚀 DÉMARRAGE DU ROBOT DE TRADING (OR & IA)")
+    print("  DÉMARRAGE DU ROBOT DE TRADING (OR & IA)")
     print("="*60)
 
     # 1. DONNÉES
