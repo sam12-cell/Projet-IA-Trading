@@ -4,3 +4,4 @@ yfinance
 pandas_ta
 plotly
 openai
+
